@@ -1,1 +1,1 @@
-include ':xbzxinglibrary', ':myapplication'
+include ':xbzxinglibrary'

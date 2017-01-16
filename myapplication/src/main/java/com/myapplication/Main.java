@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.RelativeLayout;
 
+import com.szxb.api.jni_interface.api_interface;
+
 import butterknife.ButterKnife;
 import butterknife.InjectView;
 import butterknife.OnClick;
@@ -45,7 +47,7 @@ public class Main extends AppCompatActivity {
                     @Override
                     public void run() {
 
-//                        api_interface.printertest();
+                        api_interface.printertest();
 
                     }
                 });
