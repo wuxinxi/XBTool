@@ -1,3 +1,6 @@
+# 介绍
+1.S8机器扫码处理</br>
+2.S8机器打印、扫码、刷卡等
 # 使用方式
 ### gradle
 root build.gradle<br>
